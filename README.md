@@ -1,10 +1,10 @@
 <div>
 <h3 style="text-align: center;">
-  Olá! 👋 <br> Espero que você esteja bem.
+  Hello! 👋 <br> I hope that you are okay.
 </h3>
 </div>
 
-Meu nome é Diogo, e eu sou:
-- Um usuário Linux
-- Um amante de window managers
-- Blogger
+My name is Diogo, and I'm:
+- A Linux user
+- A Window manager lover
+- And a blogger
