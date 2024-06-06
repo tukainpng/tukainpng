@@ -8,4 +8,3 @@ Meu nome é Diogo, e eu sou:
 - Um usuário Linux
 - Um amante de window managers
 - Blogger
-- E estou estudando programação
