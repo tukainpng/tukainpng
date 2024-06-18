@@ -9,4 +9,4 @@ My name is Diogo, and I'm:
 - A Window manager lover
 - And a blogger
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,linux,bash,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,linux,bash,neovim)](https://skillicons.dev)
