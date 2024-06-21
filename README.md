@@ -12,4 +12,4 @@ My name is Diogo, and I'm:
 ![Stats](https://github-readme-stats.vercel.app/api?username=tukainpng&theme=dracula)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tukainpng&layout=compact&theme=dracula)
 
-[![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,git,linux,bash,neovim)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,git,linux,bash,neovim,vscode)](https://skillicons.dev)
