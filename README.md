@@ -9,4 +9,7 @@ My name is Diogo, and I'm:
 - A Window manager lover
 - And a blogger
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,git,linux,bash,neovim)](https://skillicons.dev)
+![Stats](https://github-readme-stats.vercel.app/api?username=tukainpng&theme=dracula)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tukainpng&layout=compact&theme=dracula)
+
+[![Skills](https://skillicons.dev/icons?i=html,css,bootstrap,git,linux,bash,neovim)](https://skillicons.dev)
