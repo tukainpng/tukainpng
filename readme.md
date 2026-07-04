@@ -4,19 +4,23 @@ Bem-vindo ao meu perfil! Aqui é um lugar onde você vai encontrar meus
 projetos pessoais e outros que eu contribuí.
 
 Gosto de:
-- Linux (uso [Alpine Linux](https://alpinelinux.org) como daily-driver)
+- Linux (uso [NixOS](https://nixos.org) como daily-driver)
 - Projetos Open-Source
-- Software minimalistas
+- Software minimalistas ([com excessões](https://github.com/noctalia-dev/noctalia))
 - Computação retrô
 
-(também tem o meu [site](https://tukainpng.neocities.org), dá uma olhadinha
-depois :D)
+(também tem o meu [site](https://tukainpng.neocities.org), dá uma olhadinha depois :D)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vim,neovim,emacs,linux,plan9,bash,markdown,html,css,javascript,git">
+  <img src="https://skillicons.dev/icons?i=git">
 </div>
-
 <div align="center">
-  <img src="./pepe.jpg" height="300">
+  <img src="https://skillicons.dev/icons?i=linux,plan9">
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vim,emacs,neovim">
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash,html,css,javascript,markdown">
 </div>
 
