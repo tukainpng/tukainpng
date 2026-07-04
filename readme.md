@@ -21,7 +21,7 @@ Gosto de:
   <img src="https://skillicons.dev/icons?i=vim,emacs,neovim">
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bash,html,css,javascript,markdown">
+  <img src="https://skillicons.dev/icons?i=bash,html,css,javascript">
 </div>
 <div align="center">
   <img border="0" src="https://github-stats-extended.vercel.app/api/top-langs?username=tukainpng&layout=compact&hide=emacs%20lisp,yasnippet,lua&langs_count=8&theme=github_dark">
