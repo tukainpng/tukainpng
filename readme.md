@@ -17,6 +17,6 @@ depois :D)
 </div>
 
 <div align="center">
-  <img src="./rtfm.jpeg" height="300">
+  <img src="./pepe.jpg" height="300">
 </div>
 
